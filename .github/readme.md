@@ -53,8 +53,8 @@ This system is designed to simulate a real-world predictive maintenance environm
 ### DS18B20 (1-Wire Temperature)
 | DS18B20 Pin | ESP32 Pin | Note |
 |-------------|-----------|------|
-| **VCC**     | `3V3`     | |
-| **GND**     | `GND`     | |
+| **VCC**     | `3V3`     | - |
+| **GND**     | `GND`     | - |
 | **DQ (Data)**| `GPIO 4` | **Important:** Connect the `4.7kΩ` pull-up resistor between the `VCC` and `DQ` pins. |
 
 ### Potentiometer (Simulated Current Sensor)
