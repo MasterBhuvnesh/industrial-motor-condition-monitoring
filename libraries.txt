@@ -1,3 +1,5 @@
 Adafruit MPU6050
 DallasTemperature
 OneWire
+PubSubClient
+ArduinoJson

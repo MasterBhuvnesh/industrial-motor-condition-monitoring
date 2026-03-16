@@ -27,7 +27,7 @@
         {
             "type": "wokwi-potentiometer",
             "id": "pot1",
-            "top": 209.9,
+            "top": 190.7,
             "left": 124.6,
             "attrs": {}
         },
